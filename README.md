@@ -11,7 +11,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 - 😄 Pronouns: He/Him/His
 - ⚡ Hobbies: ...
 - 📫 Email: dinhjd@uci.edu 
-- 🔗 LinkedIn: [This is an external link to genome.gov](https://www.linkedin.com/in/johnson-dinh-251b86194/)
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/johnson-dinh-251b86194/" target="_blank">https://www.linkedin.com/in/johnson-dinh-251b86194/</a>
 
 
 <p float="left" align="center">

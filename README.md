@@ -1,6 +1,6 @@
 ![banner_text](banner.JPG)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- **jdinh-782/jdinh-782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh_782)](https://github.com/jdinh_782/github-readme-stats)
+[![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true)](https://github.com/jdinh-782/github-readme-stats)
 

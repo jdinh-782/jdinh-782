@@ -1,4 +1,4 @@
-![alt text](http://url/to/banner.JPG)
+![alt text](banner.JPG)
 
 ### Hi there 👋
 

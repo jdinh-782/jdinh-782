@@ -25,5 +25,5 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 <!-- [![Johnson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats) -->
 
 <p float="left" align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1236166564&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1236166564&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"
 </p>

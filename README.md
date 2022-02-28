@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats) -->
 
+<center>
 Github Stats             |  Popular Programming Languages
-:-------------------------:|:-------------------------:
-[![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true)](https://github.com/jdinh-782/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact)](https://github.com/jdinh-782/github-readme-stats)
+  :-------------------------:|:-------------------------:
+  [![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true)](https://github.com/jdinh-782/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact)](https://github.com/jdinh-782/github-readme-stats)
+</center>

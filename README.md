@@ -1,4 +1,4 @@
-![alt text](banner.JPG)
+![banner_text](banner.JPG)
 
 ### Hi there 👋
 

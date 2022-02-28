@@ -2,10 +2,7 @@
 
 ### Hi there 👋
 
-<!--
-**jdinh-782/jdinh-782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- **jdinh-782/jdinh-782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh_782)](https://github.com/jdinh_782/github-readme-stats)
+

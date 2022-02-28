@@ -16,6 +16,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact" width="42%" /> 
 </p>
+<br>
 
 <!-- Github Stats             |  Popular Programming Languages
   :-------------------------:|:-------------------------:
@@ -24,6 +25,13 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 
 <!-- [![Johnson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats) -->
 
-<p align="center">
+
+<h2 align="center">
+  Languages, Tools, and Frameworks 👨‍💻
+</h2>
+
+
+
+<!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1236166564&cover_image=true&theme=default&bar_color=d1ffd1&bar_color_cover=false"
-</p>
+</p> -->

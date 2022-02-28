@@ -1,3 +1,5 @@
+![alt text](http://url/to/banner.png)
+
 ### Hi there 👋
 
 <!--

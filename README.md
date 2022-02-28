@@ -22,4 +22,4 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
   [![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true)](https://github.com/jdinh-782/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact)](https://github.com/jdinh-782/github-readme-stats) -->
 
 
-[![Johnson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats)
+<!-- [![Johnson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats) -->

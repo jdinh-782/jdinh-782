@@ -5,7 +5,7 @@
 <!-- **jdinh-782/jdinh-782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hello! My name is Johnson, and I am a Computer Science undergraduate, specializing in Intelligent Systems, studying at UC Irvine.
-- 💻 I’m currently learning data mining, machine learning, and artificial intelligence! 
+- 💻 I’m currently learning data mining, machine learning, and optimization! 
 - 👯 I’m looking to collaborate on projects pertaining to really anything! I love working with data and learning about related topics such as Data Analysis/Engineering, Machine Learning, and Backend Development. Other interests of mine, with regards to my field of study, include Software Engineering, Game Development, and Web/App Development.
 - 😄 Pronouns: He/Him/His
 - 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!

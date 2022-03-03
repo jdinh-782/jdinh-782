@@ -9,7 +9,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 - 👯 I’m looking to collaborate on projects pertaining to really anything! I love working with data and learning about related topics such as Data Analysis/Engineering, Machine Learning, and Backend Development. Other interests of mine, with regards to my field of study, include Software Engineering, Game Development, and Web/App Development.
 - 😄 Pronouns: He/Him/His
 - 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!
-- 📫 Email: dinhjd@uci.edu, 
+- 📫 Email: dinhjd@uci.edu
 - 🔗 LinkedIn: https://www.linkedin.com/in/johnson-dinh-251b86194/
 
 <p float="left" align="center">

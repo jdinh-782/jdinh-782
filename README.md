@@ -10,7 +10,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 - 😄 Pronouns: He/Him/His
 - 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 📫 Email: dinhjd@uci.edu
-- 🔗 LinkedIn: https://www.linkedin.com/in/johnson-dinh-251b86194/
+- 🔗 LinkedIn: https://www.linkedin.com/in/johnson-dinh/
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" />

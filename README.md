@@ -14,7 +14,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact" width="42%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact&langs_count=6" width="42%" /> 
 </p>
 
 <!-- Github Stats             |  Popular Programming Languages

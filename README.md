@@ -3,14 +3,24 @@
 <!-- ### Hi there 👋 -->
 
 <!-- **jdinh-782/jdinh-782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Hello! 👋 My name is Johnson Dinh.
+=============================
 
-Hello! My name is Johnson, and I am a Computer Science undergraduate, specializing in Intelligent Systems, studying at UC Irvine.
-- 💻 I’m currently learning data mining, machine learning, and optimization! 
-- 👯 I’m looking to collaborate on projects pertaining to really anything! I love working with data and learning about related topics such as Data Analysis/Engineering, Machine Learning, and Backend Development. Other interests of mine, with regards to my field of study, include Software Engineering, Game Development, and Web/App Development.
-- 😄 Pronouns: He/Him/His
+Software Engineer @ JPMorgan Chase & Co.
+----------------------------------------
+
+I am a rising senior studying Computer Science at UC Irvine. I am specializing in Intelligent Systems which is a makeup of artificial intelligence, machine learning, and data analysis. Other interests of mine, with regard to my field of study, include software engineering, game development, and web/app development.
+
+- 💻 I’m currently learning algorithm analysis, artificial intelligence in medicine, and computer architecture. 
+- 👯 I'm open to collaborating on projects utilizing data analysis and machine learning. 
 - 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!
+- 😄 Pronouns: He/Him/His
 - 📫 Email: dinhjd@uci.edu
-- 🔗 LinkedIn: https://www.linkedin.com/in/johnson-dinh/
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jdinh-782" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johnson-dinh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18685255/johnson-dinh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" />
@@ -83,7 +93,7 @@ Hello! My name is Johnson, and I am a Computer Science undergraduate, specializi
 </p>
   
 
-
+<a href="http://www.github.com/jdinh-782"><img src="https://activity-graph.herokuapp.com/graph?username=jdinh-782&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 

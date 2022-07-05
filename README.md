@@ -6,7 +6,7 @@
 Hello! 👋 My name is Johnson Dinh.
 =============================
 
-Software Engineer @ JPMorgan Chase & Co.
+Software Engineer Intern @ JPMorgan Chase & Co.
 ----------------------------------------
 
 I am a rising senior studying Computer Science at UC Irvine. I am specializing in Intelligent Systems which is a makeup of artificial intelligence, machine learning, and data analysis. Other interests of mine, with regard to my field of study, include software engineering, game development, and web/app development.

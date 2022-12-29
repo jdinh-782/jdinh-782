@@ -11,7 +11,7 @@ Software Engineer Intern @ JPMorgan Chase & Co.
 
 I am a rising senior studying Computer Science at UC Irvine. I am specializing in Intelligent Systems which is a makeup of artificial intelligence, machine learning, and data analysis. Other interests of mine, with regard to my field of study, include software engineering, game development, and web/app development.
 
-- 💻 I’m currently learning algorithm analysis, artificial intelligence in medicine, and computer architecture. 
+- 💻 I’m currently learning natural language processing, next generation search systems, and computer vision. 
 - 👯 I'm open to collaborating on projects utilizing data analysis and machine learning. 
 - 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 😄 Pronouns: He/Him/His

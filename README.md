@@ -93,8 +93,8 @@ As a rising senior studying Computer Science at UC Irvine, my main specializatio
 </p>
   
 
-<a href="http://www.github.com/jdinh-782"><img src="https://activity-graph.herokuapp.com/graph?username=jdinh-782&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<!-- <a href="http://www.github.com/jdinh-782"><img src="https://activity-graph.herokuapp.com/graph?username=jdinh-782&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ -->
 
 
 <!-- <p align="center">

@@ -6,16 +6,16 @@
 Hello! 👋 My name is Johnson Dinh.
 =============================
 
-Software Engineer @ JPMorgan Chase & Co.
+Software Engineer
 ----------------------------------------
 
 As a rising senior studying Computer Science at UC Irvine, my main specialization is under Intelligent Systems which is a makeup of artificial intelligence, machine learning, and data analysis. Other interests of mine, with regard to my field of study, include software engineering, game development, and web/app development.
 
-- 💻 I’m currently learning natural language processing, next generation search systems, and computer vision. 
-- 👯 I'm open to collaborating on projects utilizing data analysis and machine learning. 
-- 🎧 Hobbies: Playing/watching basketball 🏀, eating different foods 🍔, and exploring the scenery 🌲!
+- 💻 I’m currently learning operating systems, system design, and software testing. 
+- 👯 I'm open to collaborating on projects utilizing data analysis and software development. 
+- 🎧 Hobbies: Playing/watching sports 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 😄 Pronouns: He/Him/His
-- 📫 Email: dinhjd@uci.edu
+- 📫 Email: jdinhbus@gmail.com
 
 ### Socials
 

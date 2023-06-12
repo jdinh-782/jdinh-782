@@ -23,7 +23,7 @@ As a rising senior studying Computer Science at UC Irvine, my main specializatio
 
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact&langs_count=6" width="42%" /> 
 </p>
 

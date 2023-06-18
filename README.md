@@ -6,13 +6,13 @@
 Hello! 👋 My name is Johnson Dinh.
 =============================
 
-Software Engineer
+Software Applications Developer
 ----------------------------------------
 
-As a rising senior studying Computer Science at UC Irvine, my main specialization is under Intelligent Systems which is a makeup of artificial intelligence, machine learning, and data analysis. Other interests of mine, with regard to my field of study, include software engineering, game development, and web/app development.
+I work on frontend and application development with a touch of data analysis. Holding a bachelor's degree in Computer Science with a specialization in Intelligent Systems, I love to learn and work on projects related to topics such as machine learning, computer vision, and game development. Outside of the office, I spend time playing and watching numerous sports, going on walking trips, hiking, and captivating the food scene through different cities and cultures.
 
-- 💻 I’m currently learning operating systems, system design, and software testing. 
-- 👯 I'm open to collaborating on projects utilizing data analysis and software development. 
+- 💻 I’m currently learning applications development and software testing with quality assurance. 
+- 👯 I'm open to collaborating on projects utilizing machine learning or game development. 
 - 🎧 Hobbies: Playing/watching sports 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 😄 Pronouns: He/Him/His
 - 📫 Email: jdinhbus@gmail.com

@@ -1,4 +1,4 @@
-![banner_text](banner.JPG)
+![banner_text](banner.png)
 
 <!-- ### Hi there 👋 -->
 

@@ -11,7 +11,7 @@ Full-Stack Applications Engineer
 
 I visualize my creations through programming.
 
-- 💻 Organizations: DFS (Current), UPS Capital (Current), JPMorgan Chase & Co. (2022), UC Irvine (2022)
+- 💻 Organizations: DFS (Current), UPS Capital (Current), JPMorgan Chase & Co. (2022), UC Irvine (2022), SciOlympiad (2021)
 - 🎧 Hobbies: Playing/watching sports 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 😄 Pronouns: He/Him/His
 - 📫 Email: jdinhbus@gmail.com

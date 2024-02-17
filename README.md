@@ -6,26 +6,15 @@
 Hello! 👋 My name is Johnson Dinh.
 =============================
 
-Software Applications Developer
+Full-Stack Applications Engineer
 ----------------------------------------
 
-I work on frontend and application development with a touch of data analysis. Holding a bachelor's degree in Computer Science with a specialization in Intelligent Systems, I love to learn and work on projects related to topics such as machine learning, computer vision, and game development. Outside of the office, I spend time playing and watching numerous sports, going on walking trips, hiking, and captivating the food scene through different cities and cultures.
+I visualize my creations through programming.
 
-- 💻 I’m currently learning applications development and software testing with quality assurance. 
-- 👯 I'm open to collaborating on projects utilizing machine learning or game development. 
+- 💻 Organizations: DFS (Current), UPS Capital (Current), JPMorgan Chase & Co. (2022), UC Irvine (2022)
 - 🎧 Hobbies: Playing/watching sports 🏀, eating different foods 🍔, and exploring the scenery 🌲!
 - 😄 Pronouns: He/Him/His
 - 📫 Email: jdinhbus@gmail.com
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/jdinh-782" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johnson-dinh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18685255/johnson-dinh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-
-<p float="left" align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact&langs_count=6" width="42%" /> 
-</p>
 
 <!-- Github Stats             |  Popular Programming Languages
   :-------------------------:|:-------------------------:
@@ -91,7 +80,11 @@ I work on frontend and application development with a touch of data analysis. Ho
   <img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
-  
+
+<p float="left" align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact&langs_count=6" width="42%" /> 
+</p>
 
 <!-- <a href="http://www.github.com/jdinh-782"><img src="https://activity-graph.herokuapp.com/graph?username=jdinh-782&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  -->

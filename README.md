@@ -1,4 +1,4 @@
-![banner_text](banner.png)
+![banner_text](linkedin_banner.PNG)
 
 <!-- ### Hi there 👋 -->
 
@@ -6,7 +6,7 @@
 Hello! 👋 My name is Johnson Dinh.
 =============================
 
-Full-Stack Applications Engineer
+Full-Stack Software Engineer
 ----------------------------------------
 
 I visualize my creations through programming.

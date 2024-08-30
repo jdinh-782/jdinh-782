@@ -20,11 +20,8 @@ I visualize my creations through programming.
   :-------------------------:|:-------------------------:
   [![Johnson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true)](https://github.com/jdinh-782/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdinh-782&layout=compact)](https://github.com/jdinh-782/github-readme-stats) -->
 
-
-<!-- [![Johnson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdinh-782)](https://github.com/jdinh-782/github-readme-stats) -->
-
 <!-- markdown badges: https://github.com/Ileriayo/markdown-badges -->
-<h2 align="center">
+<!-- <h2 align="center">
   Languages, Tools, and Frameworks 👨‍💻
 </h2>
 
@@ -56,8 +53,6 @@ I visualize my creations through programming.
   <img alt="microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
   <img alt="microsoftexcel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img alt="googlechrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
-<!--   <img alt="bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"> -->
-<!--   <img alt="dogecoin" src="https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white"> -->
   <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   <img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   <img alt="reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
@@ -80,6 +75,7 @@ I visualize my creations through programming.
   <img alt="notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
+-->
 
 <p float="left" align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jdinh-782&show_icons=true&theme=dracula&count_private=true" width="50%" /> -->
@@ -88,8 +84,3 @@ I visualize my creations through programming.
 
 <!-- <a href="http://www.github.com/jdinh-782"><img src="https://activity-graph.herokuapp.com/graph?username=jdinh-782&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  -->
-
-
-<!-- <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1236166564&cover_image=true&theme=default&bar_color=d1ffd1&bar_color_cover=false"
-</p> -->

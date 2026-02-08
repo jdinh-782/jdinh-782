@@ -1,4 +1,4 @@
-![banner_text](linkedin_banner.PNG)
+![banner](banner.jpg)
 
 <!-- ### Hi there 👋 -->
 

@@ -3,8 +3,8 @@
 Building a better future...
 ----------------------------------------
 
-- Software Engineer at Polystack Digital
-- Applications Developer at UPS Capital
+- Lead Software Engineer at Polystack Digital
+- Senior Applications Developer at UPS Capital
 - Software Engineer Program Intern at JPMorgan Chase
 - Student Course Programmer at UC Irvine
 

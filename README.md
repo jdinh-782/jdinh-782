@@ -1,6 +1,5 @@
 ![banner](banner.jpg)
 
-Building a better future...
 ----------------------------------------
 
 - Lead Software Engineer at Polystack Digital
